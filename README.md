@@ -145,7 +145,7 @@ POST /api/recognize-plate
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/ai-license-plate-scanner.git
+https://github.com/veltonMonte/ai-license-plate-scanner.git
 ```
 
 Entre na pasta do projeto:
